@@ -1,0 +1,23 @@
+body{
+    background: black
+}
+
+.perfil{
+    height: 360px;
+}
+
+
+.bg-black{
+    background-color: black;
+}
+
+.bg-personal{
+    width: 100%;
+    height: 175px;
+}
+
+
+.card-project:hover{
+    border: 1px solid white;
+    cursor: pointer;
+}
